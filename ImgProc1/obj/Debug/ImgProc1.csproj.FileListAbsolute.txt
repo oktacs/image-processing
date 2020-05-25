@@ -1,0 +1,53 @@
+D:\VisualStudio2017\ImgProc1\ImgProc1\bin\Debug\ImgProc1.exe.config
+D:\VisualStudio2017\ImgProc1\ImgProc1\bin\Debug\ImgProc1.exe
+D:\VisualStudio2017\ImgProc1\ImgProc1\bin\Debug\ImgProc1.pdb
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Form1.resources
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Properties.Resources.resources
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csproj.GenerateResource.cache
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.exe
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.pdb
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Tentang.resources
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Brightness.resources
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Brightness2.resources
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.frmBrightness.resources
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.LogBrightness.resources
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.frmGamma.resources
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.GrayscaleHistogram.resources
+D:\VisualStudio2017\ImgProc1\ImgProc1\obj\Debug\ImgProc1.RGBHistogram.resources
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\bin\Debug\ImgProc1.exe.config
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\bin\Debug\ImgProc1.exe
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\bin\Debug\ImgProc1.pdb
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csprojAssemblyReference.cache
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.frmBrightness.resources
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Brightness2.resources
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Form1.resources
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Brightness.resources
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.LogBrightness.resources
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.frmGamma.resources
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.GrayscaleHistogram.resources
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Properties.Resources.resources
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Tentang.resources
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.RGBHistogram.resources
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csproj.GenerateResource.cache
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csproj.CoreCompileInputs.cache
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.exe
+E:\CAMPUS\SEMESTER7\PCD\MORFOLOGI2\ImgProc1\ImgProc1\obj\Debug\ImgProc1.pdb
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.csprojAssemblyReference.cache
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.frmBrightness.resources
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.Brightness2.resources
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.Form1.resources
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.Brightness.resources
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.LogBrightness.resources
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.frmGamma.resources
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.GrayscaleHistogram.resources
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.Properties.Resources.resources
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.RGBHistogram.resources
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.csproj.GenerateResource.cache
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.csproj.CoreCompileInputs.cache
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.exe
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\obj\Debug\ImgProc1.pdb
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\bin\Debug\ImgProc1.exe.config
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\bin\Debug\ImgProc1.exe
+E:\Mbak Octa D\okta\ambyar\pcvk\PCD_Sederhana-master\bin\Debug\ImgProc1.pdb
