@@ -401,13 +401,13 @@
             this.aretmToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.averageDenoisingToolStripMenuItem});
             this.aretmToolStripMenuItem.Name = "aretmToolStripMenuItem";
-            this.aretmToolStripMenuItem.Size = new System.Drawing.Size(94, 20);
-            this.aretmToolStripMenuItem.Text = "Arithmatic Op";
+            this.aretmToolStripMenuItem.Size = new System.Drawing.Size(118, 20);
+            this.aretmToolStripMenuItem.Text = "Average Denoising";
             // 
             // averageDenoisingToolStripMenuItem
             // 
             this.averageDenoisingToolStripMenuItem.Name = "averageDenoisingToolStripMenuItem";
-            this.averageDenoisingToolStripMenuItem.Size = new System.Drawing.Size(173, 22);
+            this.averageDenoisingToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.averageDenoisingToolStripMenuItem.Text = "Average Denoising";
             this.averageDenoisingToolStripMenuItem.Click += new System.EventHandler(this.averageDenoisingToolStripMenuItem_Click);
             // 
@@ -790,28 +790,28 @@
             // dilationSquare3ToolStripMenuItem
             // 
             this.dilationSquare3ToolStripMenuItem.Name = "dilationSquare3ToolStripMenuItem";
-            this.dilationSquare3ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.dilationSquare3ToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
             this.dilationSquare3ToolStripMenuItem.Text = "Dilation Square 3";
             this.dilationSquare3ToolStripMenuItem.Click += new System.EventHandler(this.dilationSquare3ToolStripMenuItem_Click);
             // 
             // dilationSquare5ToolStripMenuItem
             // 
             this.dilationSquare5ToolStripMenuItem.Name = "dilationSquare5ToolStripMenuItem";
-            this.dilationSquare5ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.dilationSquare5ToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
             this.dilationSquare5ToolStripMenuItem.Text = "Dilation Square 5";
             this.dilationSquare5ToolStripMenuItem.Click += new System.EventHandler(this.dilationSquare5ToolStripMenuItem_Click);
             // 
             // dilationCross3ToolStripMenuItem
             // 
             this.dilationCross3ToolStripMenuItem.Name = "dilationCross3ToolStripMenuItem";
-            this.dilationCross3ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.dilationCross3ToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
             this.dilationCross3ToolStripMenuItem.Text = "Dilation Cross 3";
             this.dilationCross3ToolStripMenuItem.Click += new System.EventHandler(this.dilationCross3ToolStripMenuItem_Click);
             // 
             // dilationCircle5ToolStripMenuItem
             // 
             this.dilationCircle5ToolStripMenuItem.Name = "dilationCircle5ToolStripMenuItem";
-            this.dilationCircle5ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.dilationCircle5ToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
             this.dilationCircle5ToolStripMenuItem.Text = "Dilation Circle 5";
             this.dilationCircle5ToolStripMenuItem.Click += new System.EventHandler(this.dilationCircle5ToolStripMenuItem_Click);
             // 
